@@ -1,5 +1,5 @@
 .hintergrund{
-    margin-top:-30px;
+    margin-top:30px;
 }
 
 .inhalt{
@@ -8,5 +8,10 @@
 
 .profilbild-image{
     /*border-radius: 1500px;*/
-    margin_bottom: 20px;
+    margin-bottom: 20px;
 }
+
+.wegBild{
+    margin-top: -50px;
+}
+
